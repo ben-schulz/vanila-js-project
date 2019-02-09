@@ -8,4 +8,8 @@ or start the watcher with
 
 `make watch`
 
-read and write code.
+then bundle the app into a single directory, and see it:
+
+`make app`
+
+and read and write code.
