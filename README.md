@@ -1,2 +1,11 @@
-# winding-word
-text is constructed as it is read
+# it doesn't take much
+
+run your tests once with
+
+`make test`
+
+or start the watcher with
+
+`make watch`
+
+read and write code.
