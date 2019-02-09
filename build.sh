@@ -20,6 +20,7 @@ for buildvar in $required_vars; do
     exit_if_var_missing $buildvar
 done
 
+mkdir -p app
 
 bundlefile='app/app.js'
 bundle_head='bundle_head.js'
