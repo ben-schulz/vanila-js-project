@@ -1,0 +1,2 @@
+src/placeholder.js
+src/main.js
